@@ -1,0 +1,2 @@
+# GirlsFrontlineProbCalc
+利用少女前线某种枪支常见公式的出货概率计算一定建造次数的出货概率
