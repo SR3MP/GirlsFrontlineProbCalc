@@ -1,0 +1,11 @@
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\bin\Debug\概率计算器.exe.config
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\bin\Debug\概率计算器.exe
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\bin\Debug\概率计算器.pdb
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\obj\Debug\概率计算器.Form1.resources
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\obj\Debug\概率计算器.Properties.Resources.resources
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\obj\Debug\概率计算器.csproj.GenerateResource.cache
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\obj\Debug\概率计算器.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\obj\Debug\概率计算器.exe
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\obj\Debug\概率计算器.pdb
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\bin\Debug\Tdoll-rate.mdb
+C:\Users\Marcus\source\repos\概率计算器\概率计算器\obj\Debug\概率计算器.csprojAssemblyReference.cache
