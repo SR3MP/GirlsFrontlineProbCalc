@@ -2,7 +2,7 @@ GirlsFrontlineProbCalc
 ====================
 少女前线偷渡计算器
 ----------------------------------
-2018/7/17 [GFPC](girlsfrontlineprobcalc.tk)(aspx)<br>
+2018/7/17 [GFPC](http://girlsfrontlineprobcalc.tk)(aspx)<br>
 2018/7/13 更新了运用远程数据库，并可以计算新霰弹的版本“偷渡计算器改”。<br>
 ----------------------------------
 ***
